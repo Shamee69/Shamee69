@@ -17,11 +17,6 @@ Sociological background Data Analyst .
    </a>
 </p>
 
-<p align='center'>
-   📫 How to reach me: <a href='mailto:ваша_почта@example.com'>ваша_почта@example.com</a>
-</p>
-
-
 ## 🛠 Technical Stack
 *   Python
 *   MySQL, PostgreSQL
