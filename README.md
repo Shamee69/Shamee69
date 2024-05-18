@@ -1,7 +1,10 @@
 # Hi, I'm Michael 👋
 Sociological background Data Analyst .
 
-<p align='center'>
+## Контактная информация
+- **Email:** podmarevmihailm@gmail.com
+- **GitHub:** [Ваш профиль GitHub](https://github.com/shamee69)
+- <p align='left'>
    <a href="https://t.me/Meursaul">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
