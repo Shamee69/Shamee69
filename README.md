@@ -39,6 +39,8 @@ Sociological background Data Analyst .
 
 ## Стек технологий и языки
 
+## Стек технологий и языки
+
 <p align='left'>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -52,8 +54,9 @@ Sociological background Data Analyst .
    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-   <img src="https://img.shields.io/badge/English-0077B5?style=for-the-badge&logo=english&logoColor=white"/>
+   <img src="https://img.shields.io/badge/English%20Fluent-0077B5?style=for-the-badge&logo=english&logoColor=white"/>
 </p>
+
 
 
    </a>
