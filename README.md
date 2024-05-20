@@ -1,5 +1,5 @@
 # Hi, I'm Michael 👋
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Michael</a> 
+<h1 align="center">Hi there, I'm Michael
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data analytic speacialist</h3>
 
