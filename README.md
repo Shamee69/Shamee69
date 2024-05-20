@@ -1,5 +1,7 @@
 # Hi, I'm Michael 👋
-Sociological background Data Analyst .
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Michael</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data analytic speacialist</h3>
 
 ## Контактная информация
 <p align='left'>
@@ -19,7 +21,7 @@ Sociological background Data Analyst .
 *   MySQL, PostgreSQL
 *   Redash
 *   Tableau
-*   GitHub/GitLab
+*   GitHub/GitLab 
 
   ## Образование
 
