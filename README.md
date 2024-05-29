@@ -1,7 +1,10 @@
 # Hi, I'm Michael 👋
 <h1 align="center">Hi there, I'm Michael
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data analytics</h3>
+<h3 align="center">Data analyst</h3>
+
+![cute_cat_doing)stuff](peach-goma-pc-night-keyboard-smashing.gif)
+
 
 ## Контактная информация
 <p align='left'>
