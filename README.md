@@ -7,7 +7,7 @@
 </p>
 
 
-## :fire: How to contact me
+## 📱: How to contact me
 <p align='left'>
    <a href="https://t.me/Meursaul">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -20,12 +20,12 @@
    </a>
 </p>
 
-  ## Stuff I've done \ My projects
+  ## 🔥: Stuff I've done \ My projects
 | Коротко название | Описание |
 |-------------|---------------------------|
 |  <a href="https://github.com/Shamee69/E_commerce_Project" target="_blank">E-commerce</a>  | Датасет с интернет-заказами пользователей |
 
-  ## Stuff I've learned
+  ## 📖: Stuff I've learned
 
 | Образование | Высшее образование/курсы | Год окончания |
 |-------------|---------------------------|---------------|
@@ -40,7 +40,7 @@
 | Основы статистики | Bioinformatics Institute | 2022 |
 | Excel для работы | Yandex Практикум | 2022 |
 
-## Stuff I know
+## 🔨: Stuff I know
 <p align='left'>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
