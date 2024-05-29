@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Michael
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data analyst</h3>
+<h3 align="center">Data analyst, Sociology & Statistics bachelor</h3>
 
 <p align="center">
   <img src="peach-goma-pc-night-keyboard-smashing.gif" alt="cute_cat_doing_stuff">
 </p>
 
 
-## How to contact me
+## :fire: How to contact me
 <p align='left'>
    <a href="https://t.me/Meursaul">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
