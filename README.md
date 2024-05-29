@@ -7,7 +7,7 @@
 </p>
 
 
-## Контактная информация
+## How to contact me
 <p align='left'>
    <a href="https://t.me/Meursaul">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -20,7 +20,7 @@
    </a>
 </p>
 
-  ## Образование
+  ## Stuff I've learned
 
 | Образование | Высшее образование/курсы | Год окончания |
 |-------------|---------------------------|---------------|
@@ -36,10 +36,7 @@
 | Основы программирования | Yandex Практикум | 2023 |
 | Excel для работы | Yandex Практикум | 2022 |
 
-## Стек технологий и языки
-
-## Стек технологий и языки
-
+## Stuff I know
 <p align='left'>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
