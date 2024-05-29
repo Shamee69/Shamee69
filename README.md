@@ -23,7 +23,7 @@
   ## Stuff I've done \ My projects
 | Коротко название | Описание |
 |-------------|---------------------------|
-| [E-commerce](https://github.com/Shamee69/E_commerce_Project){:target="_blank"} | Датасет с интернет-заказами пользователей |
+|  <a href="https://github.com/Shamee69/E_commerce_Project" target="_blank">E-commerce</a>  | Датасет с интернет-заказами пользователей |
 
   ## Stuff I've learned
 
