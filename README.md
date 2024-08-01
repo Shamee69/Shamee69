@@ -25,6 +25,7 @@
 |-------------|---------------------------|
 |  <a href="https://github.com/Shamee69/E_commerce_Project" target="_blank">E-commerce</a>  | Датасет с интернет-заказами пользователей |
 |  <a href="https://github.com/Shamee69/A-B-tests-1" target="_blank">A/B tests #1</a>  | А/B тесты: 2 кейса из приложений |
+|  <a href="https://github.com/Shamee69/Mobile_games-A-B-test" target="_blank">A/B tests #2</a>  | А/B тест: кейса из приложений: Мобильная игра |
 
 
 ## 🔨 Stuff I know:  
