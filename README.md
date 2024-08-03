@@ -24,7 +24,11 @@
    <a href="https://geekjob.ru/geek/66ab50450e75710017dde80c">
        <img src="https://img.shields.io/badge/Geekjob-6296CC?style=for-the-badge&logo=geekjob&logoColor=white"/>
    </a>
+   <a href="https://leetcode.com/u/lemony9069/">
+       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+   </a>
 </p>
+
 
 
   ## 🔥 Stuff I've done \ My projects:
