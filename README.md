@@ -21,7 +21,11 @@
    <a href="https://career.habr.com/shamee69">
        <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/>
    </a>
+   <a href="https://geekjob.ru/geek/66ab50450e75710017dde80c">
+       <img src="https://img.shields.io/badge/Geekjob-6296CC?style=for-the-badge&logo=geekjob&logoColor=white"/>
+   </a>
 </p>
+
 
   ## 🔥 Stuff I've done \ My projects:
 | Коротко название | Описание |
