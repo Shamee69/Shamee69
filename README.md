@@ -18,6 +18,10 @@
    <a href="https://spb.hh.ru/resume/025aeeeeff0c4e290b0039ed1f4333564d3768">
        <img src="https://img.shields.io/badge/HeadHunter-990000?style=for-the-badge&logo=hh&logoColor=white"/>
    </a>
+  </a>
+   <a href="https://career.habr.com/shamee69">
+       <img src="https://img.shields.io/badge/-Habr-65A3BE?style=flat&logo=habr&logoColor=white"/>
+   </a>
 </p>
 
   ## 🔥 Stuff I've done \ My projects:
