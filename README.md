@@ -38,6 +38,7 @@
 |  <a href="https://github.com/Shamee69/A-B-tests-1" target="_blank">A/B tests #1</a>  | А/B тесты: 2 кейса из приложений |
 |  <a href="https://github.com/Shamee69/Mobile_games-A-B-test" target="_blank">A/B tests #2</a>  | А/B тест: кейс из приложения (Мобильная игра)  |
 |  <a href="https://github.com/Shamee69/Product_metrics_1" target="_blank">Product analytics #2</a>  | Продуктовые метрики: кейс данных из AppMetrica  |
+|  <a href="https://github.com/Shamee69/Product_analytics_1" target="_blank">Product analytics #3: RFM analysis</a>  | RFM анализ и таблица |
 
 ## 🔨 Stuff I know:  
 <p align='left'>
